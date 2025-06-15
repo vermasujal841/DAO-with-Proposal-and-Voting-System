@@ -4,7 +4,7 @@
 A basic DAO smart contract that allows users to create proposals and vote on them. Each user can vote only once per proposal. Proposals record votes for and against, along with metadata like description and proposer.
 
 ## 🌐 Project Vision
-To enable simple, community-driven governance mechanisms for decentralized communities and protocols on the Stacks blockchain.
+To enable simple, community-driven governance mechanisms for decentralized communities and protocols on the Stacks blockchain.    
 
 ## 🚀 Future Scope
 - Add voting weight based on token holdings.
